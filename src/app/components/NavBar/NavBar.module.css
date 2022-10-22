@@ -1,0 +1,28 @@
+.navbar {
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+  align-items: center;
+  justify-items: center;
+  margin-top: 2rem;
+}
+
+.nav-links > a {
+  text-decoration: none;
+}
+
+.nav-link {
+  margin-right: 1.5rem;
+  color: #1d1f22;
+}
+
+.cart-logos {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.active {
+  color: var(--green);
+  border-bottom: 1px solid var(--green);
+  padding-bottom: 1rem;
+}
