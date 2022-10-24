@@ -6,16 +6,16 @@
   margin-top: 2rem;
 }
 
-.nav-links > a {
+.links > a {
   text-decoration: none;
 }
 
-.nav-link {
+.link {
   margin-right: 1.5rem;
   color: #1d1f22;
 }
 
-.cart-logos {
+.markings {
   display: flex;
   align-items: center;
   gap: 0.5rem;
